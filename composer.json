@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/messagebird",
+    "name": "rf1705/messagebird",
     "description": "MessageBird notification channel for Laravel 5.x",
     "homepage": "https://github.com/laravel-notification-channels/messagebird",
     "license": "MIT",
